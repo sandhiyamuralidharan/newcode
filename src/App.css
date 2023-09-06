@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.footer{
+  background-color: gray;
+  color: bisque;
+  position: absolute;
+  width: 100%;
+  padding: 10px;
+  bottom: 50px;
+}
+.Logout{
+
+  position: absolute;
+  left: 90%;
+}
